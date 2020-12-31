@@ -6,7 +6,9 @@
 
 #### App is made for windows platform (Phone and Tablet).
 
-#### It's a weather app which detects the current location of user and make request to openweathermap.org and gets back the current location , weather .  
+#### It's a weather app which detects the current location of user and make request to openweathermap.org and gets back the current location , weather .
+
+![alt text](https://github.com/sarabDevOps/WidowsMobileApp-UWP--ghostHunter/blob/main/ghostHunter/gamePic.PNG )
 
 
  
