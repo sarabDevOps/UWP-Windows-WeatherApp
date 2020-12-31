@@ -20,7 +20,7 @@
   
   
   ## Deployment
-  * Once you have project and visual studio dowloaded here is the step by step guide how to run the project in visual studio. [howToRun](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019) 
+  * Once you have project and visual studio dowloaded here is the step by step guide how to run the project in visual studio. [howToRun](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019) .
   
   
 
