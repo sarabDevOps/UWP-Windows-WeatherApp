@@ -36,7 +36,7 @@ Version 2019 [April 2019](https://visualstudio.microsoft.com/vs/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarbjeetkumar/UWP-Windows-WeatherApp/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarabDevOps/UWP-Windows-WeatherApp/blob/main/LICENSE) file for details
 
 
 
