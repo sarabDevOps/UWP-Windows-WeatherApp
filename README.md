@@ -2,7 +2,7 @@
 
 #### GNumber - G00305450
 
-#### The project is made for as a part of college work , Module -> Mobile probramming.
+#### The project is made for as a part of college work , Module -> Mobile programming.
 
 #### App is made for windows platform (Phone and Tablet).
 
